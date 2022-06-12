@@ -81,10 +81,10 @@ Como funciona geralmente o Comitê de aprovação de projetos de uma empresa?
 ##Atenção falar com o Francisco da Cosan.
 
 
-O que é um Controler?
+## O que é um Controler?
 
 
-Qual é a relação de uma empresa com a Anatomia de um mamifero?
+## Qual é a relação de uma empresa com a Anatomia de um mamifero?
 
     Controlers : São os antecorpos, São os elementos que mantem a saude do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
     
@@ -149,17 +149,17 @@ Será que um controler poderia tambem utilizar essa opnião para realizar o cort
 
 ## Somos corruptos pois somos estimulados e corrupção ? Estamos em um ambiente onde recebemos estimulos a corrupção ?
 
-O que são Bancos de Dados decentralizados ?
+## O que são Bancos de Dados decentralizados ?
 
-O que é blockchain ?
+## O que é blockchain ?
 
-O que é Sistema de consenço e por que a tecnologia Blockchain é tão segura?
+## O que é Sistema de consenço e por que a tecnologia Blockchain é tão segura?
 
-Conseito de Anonimato ?
+## Conseito de Anonimato ?
 
-    Formas de anonimato ?
+    - Formas de anonimato ?
 
-    Imcapacidade de ligar A pessoa com a Ação.
+    - Imcapacidade de ligar A pessoa com a Ação.
 
 ## Evoluões Contábeis históricas
 
@@ -172,7 +172,6 @@ Conseito de Anonimato ?
 ## Problema de incentivos errados na economia
 
     Porque a intervenção do estado tende a aumentar o problema na economia.
-
 
     Sitar exemplos históricos
 
@@ -228,6 +227,8 @@ Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.
 Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao
 
 Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+
+
 
 ## Videos
 
