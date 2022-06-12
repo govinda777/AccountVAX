@@ -54,9 +54,6 @@
 
 Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais seguirança no seu investimento utilizando a informação desentralizada e um sistema de coleta de opniões.
 
-
-
-
 ## Objetivo
 
 Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (** Foi usao o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demaciadamente complexo e que requerem entendimento e coletá de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, afim de permitir a Fraude).
