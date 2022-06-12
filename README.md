@@ -1,8 +1,61 @@
 # AccountVAX
 
+## Index
+
+- Problema
+- Objetivo
+- O que é um Controler?
+- Fraude
+    - O que é?
+    - Quais tipos existem?
+    - Como geralmente acontece?
+    - Como evitar?
+- Corrupção
+    - O que é?
+    - O que leva uma pessoa a corrupção?
+    - Quais incentivos o meio proporciona para a corrupção?
+    - Quais são os efeitos da corrupção? (ela pode afetar a mezada do seu filho)
+    - Quais são os efeitos da corrupção em uma empresa?
+- Por que fraudes e corrupções geram improdutividade em um ecosistema ou empresa?
+- Por que caixa 2 afeta as descições de uma companhia?
+- Quais são as ferramentas que um Investidor tem afim de identificar Corrupções e Fraudes em uma empresa?
+- Espectos sociais, o que leva uma pessoa a descidir ser corrupta?
+- O que é uma empresa e qual correlação ela pode se encaixar? (correlação da empresa como um corpo animal e correlação entre a estrutura corporal com os departamentos dentro de uma empresa)
+- Como funciona o processo de pagamento de uma empresa?
+- Como funciona o processo de aprovação orçamentária de um projeto dentro de uma empresa?
+- Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito afim de minimizar essa possibilidade)
+
+- Solução.
+- Boas praticas.
+- História da evolução contábil.
+- Blockchain e a nova forma de construir uma aplicação Decentralizada.
+- Vantagens e desantagens de um sistema Decentralizado.
+- Por que não era possivel a criação de um Banco de dados decentralizado.
+- O que Blockchain poderá ajudar na questão de Fraudes / Corrupções e Concenso.
+- Canal de Transparencia e comunicação com o investidor.
+    - Se o investidor da sua empresa te perguntásse se o património dele está sendo bem aplicado, o que você responderia?
+- Sistema de voto afim de colher a opnião de um determinado publico.
+- Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
+    - Auditoria, grande aliado e prevenção de Fraude e Corrupção.
+    - Como funciona um processo de auditoria?
+    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que insentiva a corrupção?
+    - Como identificar um Sistema onde os integrantes são insentivados a corrupçao?
+- Por que uma decição baseada em informação desentralizada, sempre será mais eficiente do que uma decição Monocrativa.
+    - Ex : quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realizadade)
+- Por que as metodologias ágeis se destacam das outras?
+    - Um ambiente livre e com alta taxa de autonomia, é mais fertil que um sistema fechado e com baixo nivel de autonomia?
+    - Cade o Gerente de Projeto? 
+    - Por que um time ágil não precisa de um Gerente de Projeto?
+    - Por que as descições decentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma descição Top Down?
+    - Por que o empresário / controler / investidor deveriam ouvir mais seus times afim de tomarem melhores descições?
 
 
-## Problema que visa resolver:
+## Problema que visa explorar:
+
+Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais seguirança no seu investimento utilizando a informação desentralizada e um sistema de coleta de opniões.
+
+
+
 
 ## Objetivo
 
@@ -25,9 +78,7 @@ Veja que me refido a investimento no sentido de :
 
 Como funciona geralmente o Comitê de aprovação de projetos de uma empresa?
 
-##Atenção falar com o Jo
-
-
+##Atenção falar com o Francisco da Cosan.
 
 
 O que é um Controler?
@@ -98,10 +149,7 @@ Será que um controler poderia tambem utilizar essa opnião para realizar o cort
 
 ## Somos corruptos pois somos estimulados e corrupção ? Estamos em um ambiente onde recebemos estimulos a corrupção ?
 
-
-
-
-O que são Bancos de Dados decentyralizados ?
+O que são Bancos de Dados decentralizados ?
 
 O que é blockchain ?
 
@@ -121,6 +169,22 @@ Conseito de Anonimato ?
 * ....
 * Blockchain
 
+## Problema de incentivos errados na economia
+
+    Porque a intervenção do estado tende a aumentar o problema na economia.
+
+
+    Sitar exemplos históricos
+
+    * Casos de congelamento de preços (problema na India : Garantir o proço independente da produtividade )
+    * Congelamento de património
+    * Limite de saques diários
+    * Iper imflação
+    *
+
+## Por que uma decição baseada em informação desentralizada, sempre será mais eficiente do que uma decição Monocrativa.
+
+https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
 ## Cuidado com os insentivos que a Empresa dá aos seus funcionários
 
@@ -131,6 +195,10 @@ Conseito de Anonimato ?
 ## Eficiencia de um time referente a investimento de novas tecnologias.
 
 Se o seu time precisa de um fornecedor especializado para te dar suporte ao aplicar ou até mesmo esperimentar uma solução Open Source, talves o seu time precisará rever as suas capacidades técnicas. Ou talvez o seu problema é realmente complexo.
+
+## Formas de aumentar a produtividade de um time.
+
+    Times com autonomia e livrer para atender a solução de um problema, tendem a ser mais produtivos.
 
 
 ## Links
@@ -159,6 +227,8 @@ Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.
 
 Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao
 
+Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+
 ## Videos
 
 Bitcoin na Lua : https://www.youtube.com/watch?v=JJ2k1XWSfd4
@@ -171,8 +241,19 @@ Nova ordem mundial : https://www.youtube.com/watch?v=6cn3jKySrFU&t=68s
 
 Pais ANCAP : https://www.youtube.com/watch?v=iF9jaN3LHMo
 
+Insentivos errados : https://www.youtube.com/watch?v=Jv1kjhZSXsE
 
+Economia Argentina : https://www.youtube.com/watch?v=L_TZJfCn7_I
 
+Metrô do Rio: Um exemplo clássico de ineficiência estatal : https://www.youtube.com/watch?v=nzyjBMxtzrY
+
+O que é Economia : https://www.youtube.com/watch?v=5vCOhPrlRUs
+
+Progamação linear : https://www.youtube.com/watch?v=iljf9W2__uo&t=976s
+
+"A lei frequentemente destrói o que deveria preservar" : https://www.youtube.com/watch?v=6tsNkKXvu84&t=378s
+
+Incentivos errados : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
 ## FireFly Core code hierarchy
 
