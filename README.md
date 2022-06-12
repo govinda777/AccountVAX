@@ -30,6 +30,8 @@
 - História da evolução contábil.
 - Blockchain e a nova forma de construir uma aplicação Decentralizada.
 - Vantagens e desantagens de um sistema Decentralizado.
+- O que é mais rápido, uma descição Centralizada ou Decentralizada?
+    - Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas descições)
 - Por que não era possivel a criação de um Banco de dados decentralizado.
 - O que Blockchain poderá ajudar na questão de Fraudes / Corrupções e Concenso.
 - Canal de Transparencia e comunicação com o investidor.
