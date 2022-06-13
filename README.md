@@ -62,7 +62,7 @@ Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Fin
 
 Entendemos que um especto da Blockchain quais poderia criar uma ferramenta de prevenções de fraudes.
 
-O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia recolver um problema Básico de fraudes.
+O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema Básico de fraudes.
 
 Nossa abordagem, de maneira alguma pretende resolver por completo a questão de Fraude em uma empresa. Mas pretendemos Traser um sistema de consenço e um canal de comunicação do Investidor com os Times que atuam na empresa.
 
@@ -79,66 +79,144 @@ Como funciona geralmente o Comitê de aprovação de projetos de uma empresa?
 
 ##Atenção falar com o Francisco da Cosan.
 
+## Tema
+
+Corrupção / Fraude e Auditoria de processos, relacionado com Blockchain.
+
+
+## Ipotese
+
+Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
+Essa comunicação poderia ser anonima na parte da responta do Funcionário?
+Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
+Será que essas informações são uteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
+Será que, ferramentas, processos e insentivos corretos melhoram a produtividade de uma comunicade empresarial?
+
+Se eu aumentar o nivel de confiança entre elementos de um eco sistema empresarial isso aumentará a produtividade?
+
+Uma ferramenta eficiente, capas de colher o concendo de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+
+Um eco sistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVIDUOS 
+
+teria mais probabilidade de ser mais eficiente do que 
+
+Um eco sistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS 
+
+???
+
+## Introdução
+
+A entrega final desse projeto será a criação de insumos, dados e informações, para a consepção de um canal de imprensa baseado em votações e avaliações objetivas.
+
+Que terá como principal finalidade aumentar o gral de confiabilidade do investidos referente a empresa.
+
+Um canal de comunicação onde será regido pelos seguintes aspectos:
+
+- Anonimidade.
+- Garantias ante fraude.
+- Não obrigatoriedade do voto.
+- Transparencia.
+- Criação de Mentalidade ante corrupção.
+- Aumentar a confiabilidade entre os elementos do sistema.
+
+Uma ferramenta de comunicação do investidor com as "Squads da empresa".
+
+Uma ferramenta que visa colher a opinião do time referente a Decisões correspondentes a investimentos.
+
+Através de politicas Transparentes de votação ou avaliação, o investidor poderia se comunicar com os times da empresa afim de entender o que está acontecendo sob a oticas das pessoas que lá trabalham.
+
+Essa pesquisa visa também responder:
+
+Será que eu como investidor teria a decisão de investir mais dinheiro em uma empresa, onde as decisões de investimento dela tivesse como a Opinião dos Funcionários que trabalham lá uma opinião que é considerada?
+
+Você empresário, possui o Direito monocrático a tomar a Decisão que achar melhor para a sua empresa. Ferir esses direitos causaria o rompimento de toda a nossa Sociedade, por isso os Empresários sempre tem que ter o poder de tomada dessa Decisão.
+
+## O que esse projeto é para : O INVESTIDOR
+
+Um canal de comunicação e transparencia.
+Um celo de qualideda referente a tomada de decições de forma não 100% centralizada.
+
+## O que esse projeto é para : DONO DA EMPRESA
+
+Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porem não irá interferir nas descições monocráticas do Dono da Empresa.
+
+## O que esse projeto é para : OS COLABORADORESO
+
+Uma ferramenta motivacional onde o colaborador tem partivipação ativa nas decições da empresa.
+
+## O que esse projeto é para : PARA A SOCIEDADE
+
+Uma ferramenta que visa melhorar a questão da corrupção para eco sistemas empresariais
+
+## Artefatos
+
+Esse projeto visa entregar os seguintes
+
+1. Dissertação - Onde levantamos alguns aspectos e argumentos corelacionados a:
+
+Acpectos : Socio economicos
+
+    * Etica
+    * Corrupção
+    * Sociedade
+    * Politica
+    * Comportamento
+    * Meios de produção 
+    * Liberdade
+    * Autonomia
+
+Acpectos : Financeiros e Contábeis
+
+    * Controladoria
+    * Finanças
+    * Corte de gastos
+    * Auditoria
+    * Travas ante fraude
+    * Risco do investimento
+    * Escola Austriaca Economia
+
+Aspectos : Tecnologia da imformação, Criptografia, Validadores
+
+    * Blockchais
+    * Comunicação P2P
+    * Fluxos de aprovação para transações monetárias
+
+2. Projeto de Software - A fim de implementar materialmente os requisitos dessa Solução.
+
 
 ## O que é um Controler?
 
 
 ## Qual é a relação de uma empresa com a Anatomia de um mamifero?
 
-    Controlers : São os antecorpos, São os elementos que mantem a saude do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
-    
-    Times de produção , pesquisa e desenvolvimento : São os pulmoes, coração, ossos, e nusculos. São os que fazem o corpo (ou empresa) se mover.
-    
-    Presidentes / Diretores / Heads / Gestores / Coordenadores : São o cerebro e sistema nevorso do corpo. São os agentes que estimulão motivação intrínseca.
-    
-    Investidores , Clientes e Mercado : São os agentes que dão um vida ao Eco sistema. Na nossa analogia eles seriam o Ar, a Agua e o Alimento que mantem o copo vivo.
-    
-    Virus, Parazitas ou Bactérias : São elementos que atuam causando uma desfunção no bom funcionamento do corpo. Não os elementos que torna esse corpo improdutivo a infertil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são :
+Controlers : São os antecorpos, São os elementos que mantem a saude do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
 
-    Investimentos feitos de maneira errada ou na proporsão errada : 
-    
-        Ex: 
-        
-        * Comprar uma máquina onde exsederá 40% da sua necessidade, caso vc não tenha a previsão de crescer 40% da sua produção nos proximos 20 anos, talves seja um despedicio você investir nessa máquina na sua linha de produção.
+Times de produção , pesquisa e desenvolvimento : São os pulmoes, coração, ossos, e nusculos. São os que fazem o corpo (ou empresa) se mover.
 
-        * Comprar uma tecnologia onde seu time não tem a capacisade de manter em produção. Isso provavelmente te obrigará a contratar um serviço de suporte.
-    
-    Descições de investimento sem consultar os times de Times de produção , pesquisa e desenvolvimento : 
+Presidentes / Diretores / Heads / Gestores / Coordenadores : São o cerebro e sistema nevorso do corpo. São os agentes que estimulão a motivação intrínseca.
 
-        Acho que todo empresário tem que ter a autonimia MONOCRÁTICA de fazer o que deseja com o seu património e sua empresa.
-        
-        Não acho possivel uma sociedade produtiva onde não é respeitada a propriedade privada.
-        
-        Porem quando falamos de investidor / captal extrangeiro / IPO ou qualquer outra forma de recolhimento de captal extrangeiro, pacamos muito em relação a transparencia e descição objetiva para o que fazer com o captal extra que entrou na empresa.
+Investidores , Clientes e Ativos : São os agentes que dão vida ao Eco sistema. Na nossa analogia eles seriam o Ar, a Agua e o Alimento que mantem o copo vivo.
 
-        Muitas companhias possuem um Comitê de investimento e um "Rigoroso" processo de aprovação de verba. Fato interessante desse Comitê de investimento é que muito se sabe sobre o Mercado / Tentencias Globais / Previções de flutuações em nixos de mercado e qualquer outro dado externo que poderia afetar a companhia. Em contra partica, entende-se muito pouco sobre as reais necessidades operacionais e gargalos enfrentados pela linha produtiva.
+Virus, Parazitas ou Bactérias : São elementos que atuam causando uma desfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infertil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são :
 
-        Serta vez, um ex Gerente meu passou por um problema, onde tinha que envolver um área fora de sua gestão.
-        No mesmo momento o Gerente dessa outra área foi acionado e nada foi resolvido.
-
-        Em um outro momento Passamos pelo mesmo problema.
-        Dessa vez acionamos o Desenvolvedor da área. O problema foi esclarecido e solucionado.
-
-        Entenda que o que quero expor não foi nesse caso a ineficiencia do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chama a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nessa caso é o Desenvolvedor.
-
-        Em melhores palavras, eu Gerente, atuante nesse Corpo como cerebro e sistema nevorso, nunca serei tão eficiente para bonbear sanque, quanto o coração.
-
-        Se realmente encaramos os "Times de produção , pesquisa e desenvolvimento" como o pulmoes, coração, ossos, e nusculos será que não seria interessante saber ao menos a opnião dos integrantes desse time qual tipo de investimento seria interessante fazer visando o aumento da performance no time ?
-
-
-    Aberturas para margens de caixa 2 e outras iregularidades.
-
-        Contratação de empresas para caixa 2.
-        Contratação de produtos para caixa 2.
-        Assinatura de contratos visando caixa 2
-        Contratação de times e não dar uma proposta clara visando caixa 2.
-        Cuidado com estimulos que proporcionam corrupção.
+    * Investimentos feitos de forma mal planejada.
+    * Investimentos com baixas chances de serem concluidos.
+    * Investimentos que são maiores que as necessidades da empresa.
+    * Grupo de possoas que formam um cartel na empresa.
+    * Grupo de pessoas e individuos que atrapalham a produtividade da empresa.
+    * Adquirir uma tecnologia, onde o time não tem capacidade de sustenta-la. (provavelemente você terá mais gastos)
+    * Caixa 2
+        - Contratação de empresas para caixa 2.
+        - Contratação de produtos para caixa 2.
+        - Contratos desvantajoços e improdutivos, visando caixa 2
+    * Estimulos que proporcionam corrupção.
+        - 
+        -
+        -
 
 Caso você fosse um investidor e você tivesse um certificado, onde garantisse que ao mesmos os times de "Produção" foram ouvidos referente a descição sobre algum investimento, você ficaria mais seguro ? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opnião de seu "pulmão / coração / ossos / nusculos" ?
 
-Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa.
-
-Se essa comunicação fosse de forma Anonima e privada ?
+Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
 
 Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos?
 
@@ -167,6 +245,37 @@ Será que um controler poderia tambem utilizar essa opnião para realizar o cort
 * ....
 * ....
 * Blockchain
+
+## Descições MONOCRÁTICAs, Centralização e necessidade de 
+
+Acho que todo empresário tem que ter a autonimia MONOCRÁTICA de fazer o que deseja com o seu património e sua empresa.
+
+Não acho possivel uma sociedade produtiva onde não é respeitada a propriedade privada.
+
+Porem quando falamos de investidor / captal extrangeiro / IPO ou qualquer outra forma de recolhimento de captal externo, pecamos muito em relação a transparencia e descição objetiva para o que fazer com o captal extra que entrou na empresa.
+
+## Por que consultar os times pode ser uma boa ideia
+
+Muitas companhias possuem um Comitê de investimento e um "Rigoroso" processo de aprovação de verba. Fato interessante desse Comitê de investimento é que muito se sabe sobre o Mercado / Tentencias Globais / Previções de flutuações em nixos de mercado e qualquer outro dado externo que poderia afetar a companhia. Em contra partica, entende-se muito pouco sobre as reais necessidades operacionais e gargalos enfrentados pela linha produtiva.
+
+Serta vez, um ex Gerente meu passou por um problema, onde tinha que envolver um área fora de sua gestão.
+No mesmo momento o Gerente dessa outra área foi acionado e nada foi resolvido.
+
+Em um outro momento Passamos pelo mesmo problema.
+Dessa vez acionamos o Desenvolvedor da área. O problema foi esclarecido e solucionado.
+
+Entenda que o que quero expor não foi nesse caso a ineficiencia do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chama a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nessa caso é o Desenvolvedor.
+
+Em melhores palavras, eu Gerente, atuante nesse Corpo como cerebro e sistema nevorso, nunca serei tão eficiente para bonbear sanque, quanto o coração.
+
+Se realmente encaramos os "Times de produção , pesquisa e desenvolvimento" como o pulmoes, coração, ossos, e nusculos será que não seria interessante saber ao menos a opnião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time ?
+
+## Por que consultar os times pode não ser uma boa ideia
+
+..........
+
+## Essa pesquisa visa também entender e mostrar que Decisões Decentralizadas geralmente são mais eficientes que Decisões Centralizadas porem é adicionado o tempo gasto para se atingir o Consenso.
+
 
 ## Problema de incentivos errados na economia
 
@@ -226,8 +335,6 @@ Curso de Blockchain para Negócios: aplicações e cases reais : https://cursos.
 Curso de Blockchain: aumente a confiança da sua aplicação : https://cursos.alura.com.br/course/blockchain-confianca-da-sua-aplicacao
 
 Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
-
-
 
 ## Videos
 
