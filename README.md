@@ -1,5 +1,5 @@
 # AccountVAX
-!!!!!
+
 ## Index
 
 - Problema
@@ -14,61 +14,61 @@
     - O que é?
     - O que leva uma pessoa a corrupção?
     - Quais incentivos o meio proporciona para a corrupção?
-    - Quais são os efeitos da corrupção? (ela pode afetar a mezada do seu filho)
+    - Quais são os efeitos da corrupção? (ela pode afetar a mesada do seu filho)
     - Quais são os efeitos da corrupção em uma empresa?
-- Por que fraudes e corrupções geram improdutividade em um ecosistema ou empresa?
-- Por que caixa 2 afeta as descições de uma companhia?
-- Quais são as ferramentas que um Investidor tem afim de identificar Corrupções e Fraudes em uma empresa?
-- Espectos sociais, o que leva uma pessoa a descidir ser corrupta?
+- Por que fraudes e corrupções geram improdutividade em um ecossistema ou empresa?
+- Por que caixa 2 afeta as decisões de uma companhia?
+- Quais são as ferramentas que um Investidor tem a fim de identificar Corrupções e Fraudes em uma empresa?
+- Aspectos sociais, o que leva uma pessoa a decidir ser corrupta?
 - O que é uma empresa e qual correlação ela pode se encaixar? (correlação da empresa como um corpo animal e correlação entre a estrutura corporal com os departamentos dentro de uma empresa)
 - Como funciona o processo de pagamento de uma empresa?
 - Como funciona o processo de aprovação orçamentária de um projeto dentro de uma empresa?
-- Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito afim de minimizar essa possibilidade)
+- Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito a fim de minimizar essa possibilidade)
 
 - Solução.
-- Boas praticas.
+- Boas práticas.
 - História da evolução contábil.
-- Blockchain e a nova forma de construir uma aplicação Decentralizada.
-- Vantagens e desantagens de um sistema Decentralizado.
-- O que é mais rápido, uma descição Centralizada ou Decentralizada?
-    - Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas descições)
-- Por que não era possivel a criação de um Banco de dados decentralizado.
-- O que Blockchain poderá ajudar na questão de Fraudes / Corrupções e Concenso.
-- Canal de Transparencia e comunicação com o investidor.
-    - Se o investidor da sua empresa te perguntásse se o património dele está sendo bem aplicado, o que você responderia?
-- Sistema de voto afim de colher a opnião de um determinado publico.
+- Blockchain e a nova forma de construir uma aplicação Descentralizada.
+- Vantagens e desvantagens de um sistema Descentralizado.
+- O que é mais rápido, uma decisão Centralizada ou Descentralizada?
+    - Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas decisões)
+- Porque não era possível a criação de um Banco de dados descentralizado.
+- O que Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
+- Canal de Transparência e comunicação com o investidor.
+    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia?
+- Sistema de voto afim de colher a opinião de um determinado público.
 - Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
     - Auditoria, grande aliado e prevenção de Fraude e Corrupção.
     - Como funciona um processo de auditoria?
-    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que insentiva a corrupção?
-    - Como identificar um Sistema onde os integrantes são insentivados a corrupçao?
-- Por que uma decição baseada em informação desentralizada, sempre será mais eficiente do que uma decição Monocrativa.
-    - Ex : quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realizadade)
+    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção?
+    - Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
+- Porque uma decisão baseada em informação descentralizada, sempre será mais eficiente do que uma decisão Monocratica.
+    - Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
 - Por que as metodologias ágeis se destacam das outras?
-    - Um ambiente livre e com alta taxa de autonomia, é mais fertil que um sistema fechado e com baixo nivel de autonomia?
-    - Cade o Gerente de Projeto? 
+    - Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
+    - Cadê o Gerente de Projeto? 
     - Por que um time ágil não precisa de um Gerente de Projeto?
-    - Por que as descições decentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma descição Top Down?
-    - Por que o empresário / controler / investidor deveriam ouvir mais seus times afim de tomarem melhores descições?
+    - Por que as descições descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
+    - Por que o empresário / controler / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
 
 
 ## Problema que visa explorar:
 
-Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais seguirança no seu investimento utilizando a informação desentralizada e um sistema de coleta de opniões.
+Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais segurança no seu investimento utilizando a informação descentralizada e um sistema de coleta de opniões.
 
 ## Objetivo
 
-Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (** Foi usao o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demaciadamente complexo e que requerem entendimento e coletá de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, afim de permitir a Fraude).
+Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (** Foi usado o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demasiadamente complexos e que requerem entendimento e coleta de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, a fim de permitir a Fraude).
 
 Entendemos que um especto da Blockchain quais poderia criar uma ferramenta de prevenções de fraudes.
 
 O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema Básico de fraudes.
 
-Nossa abordagem, de maneira alguma pretende resolver por completo a questão de Fraude em uma empresa. Mas pretendemos Traser um sistema de consenço e um canal de comunicação do Investidor com os Times que atuam na empresa.
+Nossa abordagem, de maneira alguma pretende resolver por completo a questão de Fraude em uma empresa. Mas pretendemos trazer um sistema de consenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
 
-Entendemos que quando uma impresa está usufluindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que Sofrerão esse investimento.
+Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que sofrerão esse investimento.
 
-Veja que me refido a investimento no sentido de :
+Veja que me refiro a investimento no sentido de:
 
 - Comprar ou não um maquinário?
 - Comprar ou não um servidor mais potente?
@@ -84,98 +84,92 @@ Como funciona geralmente o Comitê de aprovação de projetos de uma empresa?
 Corrupção / Fraude e Auditoria de processos, relacionado com Blockchain.
 
 
-## Ipotese
+## Hipótese
 
 Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
-Essa comunicação poderia ser anonima na parte da responta do Funcionário?
+Essa comunicação poderia ser anônima na parte da responta do Funcionário?
 Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
 Será que essas informações são uteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
 Será que, ferramentas, processos e insentivos corretos melhoram a produtividade de uma comunicade empresarial?
 
-Se eu aumentar o nivel de confiança entre elementos de um eco sistema empresarial isso aumentará a produtividade?
+Se eu aumentar o nivel de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
 
-Uma ferramenta eficiente, capas de colher o concendo de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+Uma ferramenta eficiente, capas de colher o consenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
 
-Um eco sistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVIDUOS 
-
-teria mais probabilidade de ser mais eficiente do que 
-
-Um eco sistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS 
-
-???
+Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVÍDUOS teria mais probabilidade de ser mais eficiente do que um ecossistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS???
 
 ## Introdução
 
 A entrega final desse projeto será a criação de insumos, dados e informações, para a consepção de um canal de imprensa baseado em votações e avaliações objetivas.
 
-Que terá como principal finalidade aumentar o gral de confiabilidade do investidos referente a empresa.
+Que terá como principal finalidade aumentar o grau de confiabilidade dos investidos referente a empresa.
 
 Um canal de comunicação onde será regido pelos seguintes aspectos:
 
 - Anonimidade.
-- Garantias ante fraude.
+- Garantias antifraude.
 - Não obrigatoriedade do voto.
-- Transparencia.
-- Criação de Mentalidade ante corrupção.
+- Transparência.
+- Criação de Mentalidade anticorrupção.
 - Aumentar a confiabilidade entre os elementos do sistema.
 
 Uma ferramenta de comunicação do investidor com as "Squads da empresa".
 
-Uma ferramenta que visa colher a opinião do time referente a Decisões correspondentes a investimentos.
+Uma ferramenta que visa colher a opinião do time referente a decisões correspondentes a investimentos.
 
-Através de politicas Transparentes de votação ou avaliação, o investidor poderia se comunicar com os times da empresa afim de entender o que está acontecendo sob a oticas das pessoas que lá trabalham.
+Através de políticas transparentes de votação ou avaliação, o investidor poderia se comunicar com os times da empresa afim de entender o que está acontecendo sob a óticas das pessoas que lá trabalham.
 
 Essa pesquisa visa também responder:
 
-Será que eu como investidor teria a decisão de investir mais dinheiro em uma empresa, onde as decisões de investimento dela tivesse como a Opinião dos Funcionários que trabalham lá uma opinião que é considerada?
+Será que eu como investidor teria a decisão de investir mais dinheiro em uma empresa, onde as decisões de investimento dela tivesse como a opinião dos funcionários que trabalham lá uma opinião que é considerada?
 
-Você empresário, possui o Direito monocrático a tomar a Decisão que achar melhor para a sua empresa. Ferir esses direitos causaria o rompimento de toda a nossa Sociedade, por isso os Empresários sempre tem que ter o poder de tomada dessa Decisão.
+Você empresário, possui o Direito monocrático a tomar a Decisão que achar melhor para a sua empresa. Ferir esses direitos causaria o rompimento de toda a nossa Sociedade, por isso os Empresários sempre têm que ter o poder de tomada dessa Decisão.
 
-## O que esse projeto é para : O INVESTIDOR
+## O que esse projeto é para: O INVESTIDOR
 
-Um canal de comunicação e transparencia.
-Um celo de qualideda referente a tomada de decições de forma não 100% centralizada.
+Um canal de comunicação e transparência.
+Um selo de qualidade referente a tomada de decisões de forma não 100% centralizada.
 
-## O que esse projeto é para : DONO DA EMPRESA
+## O que esse projeto é para: DONO DA EMPRESA
 
-Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porem não irá interferir nas descições monocráticas do Dono da Empresa.
+Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
 
-## O que esse projeto é para : OS COLABORADORESO
+## O que esse projeto é para: OS COLABORADORESO
 
-Uma ferramenta motivacional onde o colaborador tem partivipação ativa nas decições da empresa.
+Uma ferramenta motivacional onde o colaborador tem participação ativa nas decisões da empresa.
 
-## O que esse projeto é para : PARA A SOCIEDADE
+## O que esse projeto é para: PARA A SOCIEDADE
 
-Uma ferramenta que visa melhorar a questão da corrupção para eco sistemas empresariais
+Uma ferramenta que visa melhorar a questão da corrupção para ecossistemas empresariais
 
 ## Artefatos
 
 Esse projeto visa entregar os seguintes
 
-1. Dissertação - Onde levantamos alguns aspectos e argumentos corelacionados a:
+1. Dissertação - Onde levantamos alguns aspectos e argumentos correlacionados a:
 
-Acpectos : Socio economicos
+Aspectos: Socioeconômicos
 
-    * Etica
+    * Ética
     * Corrupção
     * Sociedade
-    * Politica
+    * Política
     * Comportamento
     * Meios de produção 
     * Liberdade
     * Autonomia
 
-Acpectos : Financeiros e Contábeis
+Aspectos: Financeiros e Contábeis
 
     * Controladoria
     * Finanças
     * Corte de gastos
     * Auditoria
-    * Travas ante fraude
+    * Travas antifraude
     * Risco do investimento
-    * Escola Austriaca Economia
+    * Escola Austríaca Economia
 
-Aspectos : Tecnologia da imformação, Criptografia, Validadores
+Aspectos: Tecnologia da informação, Criptografia, Validadores
 
     * Blockchais
     * Comunicação P2P
@@ -187,125 +181,125 @@ Aspectos : Tecnologia da imformação, Criptografia, Validadores
 ## O que é um Controler?
 
 
-## Qual é a relação de uma empresa com a Anatomia de um mamifero?
+## Qual é a relação de uma empresa com a Anatomia de um mamífero?
 
-Controlers : São os antecorpos, São os elementos que mantem a saude do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
+Controlers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
 
-Times de produção , pesquisa e desenvolvimento : São os pulmoes, coração, ossos, e nusculos. São os que fazem o corpo (ou empresa) se mover.
+Times de produção, pesquisa e desenvolvimento: são os pulmões, coração, ossos e músculos. São os que fazem o corpo (ou empresa) se mover.
 
-Presidentes / Diretores / Heads / Gestores / Coordenadores : São o cerebro e sistema nevorso do corpo. São os agentes que estimulão a motivação intrínseca.
+Presidentes / Diretores / Heads / Gestores / Coordenadores: São o cérebro e sistema nevorso do corpo. São os agentes que estimulam a motivação intrínseca.
 
-Investidores , Clientes e Ativos : São os agentes que dão vida ao Eco sistema. Na nossa analogia eles seriam o Ar, a Agua e o Alimento que mantem o copo vivo.
+Investidores, Clientes e Ativos: São os agentes que dão vida ao Ecossistema. Na nossa analogia eles seriam o ar, a água e o alimento que mantem o corpo vivo.
 
-Virus, Parazitas ou Bactérias : São elementos que atuam causando uma desfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infertil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são :
+Vírus, Parazitas ou Bactérias: São elementos que atuam causando uma desfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infertil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são:
 
     * Investimentos feitos de forma mal planejada.
-    * Investimentos com baixas chances de serem concluidos.
+    * Investimentos com baixas chances de serem concluídos.
     * Investimentos que são maiores que as necessidades da empresa.
-    * Grupo de possoas que formam um cartel na empresa.
+    * Grupo de pessoas que formam um cartel na empresa.
     * Grupo de pessoas e individuos que atrapalham a produtividade da empresa.
-    * Adquirir uma tecnologia, onde o time não tem capacidade de sustenta-la. (provavelemente você terá mais gastos)
+    * Adquirir uma tecnologia, onde o time não tem capacidade de sustentá-la. (provavelemente você terá mais gastos)
     * Caixa 2
         - Contratação de empresas para caixa 2.
         - Contratação de produtos para caixa 2.
         - Contratos desvantajoços e improdutivos, visando caixa 2
-    * Estimulos que proporcionam corrupção.
+    * Estímulos que proporcionam corrupção.
         - 
         -
         -
 
-Caso você fosse um investidor e você tivesse um certificado, onde garantisse que ao mesmos os times de "Produção" foram ouvidos referente a descição sobre algum investimento, você ficaria mais seguro ? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opnião de seu "pulmão / coração / ossos / nusculos" ?
+Caso você seja um investidor e você tivesse um certificado, onde garantisse que aos mesmos os times de "Produção" foram ouvidos referente a descição sobre algum investimento, você ficaria mais seguro? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opinião de seu "pulmão / coração / ossos / nusculos"?
 
 Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
 
 Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos?
 
-## O que acontece com uma empresa quando é descuberta uma fraude financeira ?
+## O que acontece com uma empresa quando é descoberta uma fraude financeira?
 
-## Porque uma fraude é ruim pra uma empresa ?
+## Por que uma fraude é ruim para uma empresa?
 
-## Somos corruptos pois somos estimulados e corrupção ? Estamos em um ambiente onde recebemos estimulos a corrupção ?
+## Somos corruptos pois somos estimulados à corrupção? Estamos em um ambiente onde recebemos estimulos à corrupção?
 
-## O que são Bancos de Dados decentralizados ?
+## O que são Bancos de Dados descentralizados?
 
-## O que é blockchain ?
+## O que é blockchain?
 
-## O que é Sistema de consenço e por que a tecnologia Blockchain é tão segura?
+## O que é Sistema de concenço e por que a tecnologia Blockchain é tão segura?
 
-## Conseito de Anonimato ?
+## Conceito de Anonimato?
 
-    - Formas de anonimato ?
+    - Formas de anonimato?
 
-    - Imcapacidade de ligar A pessoa com a Ação.
+    - Incapacidade de ligar A pessoa com a Ação.
 
-## Evoluões Contábeis históricas
+## Evoluções Contábeis históricas
 
-* Partilhas dobradas
+* Partidas dobradas
 * ....
 * ....
 * ....
 * Blockchain
 
-## Descições MONOCRÁTICAs, Centralização e necessidade de 
+## Decisões Monocráticas, Centralização e necessidade de 
 
-Acho que todo empresário tem que ter a autonimia MONOCRÁTICA de fazer o que deseja com o seu património e sua empresa.
+Acho que todo empresário tem que ter a autonimia MONOCRÁTICA de fazer o que deseja com o seu patrimônio e sua empresa.
 
-Não acho possivel uma sociedade produtiva onde não é respeitada a propriedade privada.
+Não acho possível uma sociedade produtiva onde não é respeitada a propriedade privada.
 
-Porem quando falamos de investidor / captal extrangeiro / IPO ou qualquer outra forma de recolhimento de captal externo, pecamos muito em relação a transparencia e descição objetiva para o que fazer com o captal extra que entrou na empresa.
+Porém quando falamos de investidor / capital extrangeiro / IPO ou qualquer outra forma de recolhimento de capital externo, pecamos muito em relação a transparência e descição objetiva para o que fazer com o capital extra que entrou na empresa.
 
-## Por que consultar os times pode ser uma boa ideia
+## Por que consultar os times pode ser uma boa ideia?
 
-Muitas companhias possuem um Comitê de investimento e um "Rigoroso" processo de aprovação de verba. Fato interessante desse Comitê de investimento é que muito se sabe sobre o Mercado / Tentencias Globais / Previções de flutuações em nixos de mercado e qualquer outro dado externo que poderia afetar a companhia. Em contra partica, entende-se muito pouco sobre as reais necessidades operacionais e gargalos enfrentados pela linha produtiva.
+Muitas companhias possuem um Comitê de investimento e um "Rigoroso" processo de aprovação de verba. Fato interessante desse Comitê de investimento é que muito se sabe sobre o Mercado / Tendências Globais / Previsões de flutuações em nichos de mercado e qualquer outro dado externo que poderia afetar a companhia. Em contrapartida, entende-se muito pouco sobre as reais necessidades operacionais e gargalos enfrentados pela linha produtiva.
 
-Serta vez, um ex Gerente meu passou por um problema, onde tinha que envolver um área fora de sua gestão.
+Certa vez, um ex-gerente meu passou por um problema, onde tinha que envolver uma área fora de sua gestão.
 No mesmo momento o Gerente dessa outra área foi acionado e nada foi resolvido.
 
-Em um outro momento Passamos pelo mesmo problema.
+Em um outro momento passamos pelo mesmo problema.
 Dessa vez acionamos o Desenvolvedor da área. O problema foi esclarecido e solucionado.
 
-Entenda que o que quero expor não foi nesse caso a ineficiencia do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chama a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nessa caso é o Desenvolvedor.
+Entenda que o que quero expor não foi nesse caso a ineficiência do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chamar a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nesse caso é o Desenvolvedor.
 
-Em melhores palavras, eu Gerente, atuante nesse Corpo como cerebro e sistema nevorso, nunca serei tão eficiente para bonbear sanque, quanto o coração.
+Em melhores palavras, eu gerente, atuante nesse Corpo como cèrebro e sistema nevorso, nunca serei tão eficiente para bombear sanque, quanto o coração.
 
-Se realmente encaramos os "Times de produção , pesquisa e desenvolvimento" como o pulmoes, coração, ossos, e nusculos será que não seria interessante saber ao menos a opnião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time ?
+Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como o pulmôes, coração, ossos, e músculos será que não seria interessante saber ao menos a opnião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time?
 
-## Por que consultar os times pode não ser uma boa ideia
+## Por que consultar os times pode não ser uma boa ideia?
 
 ..........
 
-## Essa pesquisa visa também entender e mostrar que Decisões Decentralizadas geralmente são mais eficientes que Decisões Centralizadas porem é adicionado o tempo gasto para se atingir o Consenso.
+## Essa pesquisa visa também entender e mostrar que Decisões Descentralizadas geralmente são mais eficientes que Decisões Centralizadas porém é adicionado o tempo gasto para se atingir o Consenso.
 
 
 ## Problema de incentivos errados na economia
 
-    Porque a intervenção do estado tende a aumentar o problema na economia.
+    Por que a intervenção do estado tende a aumentar o problema na economia?
 
-    Sitar exemplos históricos
+    Citar exemplos históricos
 
-    * Casos de congelamento de preços (problema na India : Garantir o proço independente da produtividade )
-    * Congelamento de património
+    * Casos de congelamento de preços (problema na India: Garantir o preço independente da produtividade)
+    * Congelamento de patrimônio
     * Limite de saques diários
-    * Iper imflação
+    * Hiperinflação
     *
 
-## Por que uma decição baseada em informação desentralizada, sempre será mais eficiente do que uma decição Monocrativa.
+## Por que uma decição baseada em informação descentralizada, sempre será mais eficiente do que uma decição Monocratica?
 
 https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
-## Cuidado com os insentivos que a Empresa dá aos seus funcionários
+## Cuidado com os incentivos que a Empresa dá aos seus funcionários
 
-## Politica de corte de Gastos (cuidado com a economia burra e imvestimentos incapases de ser concluidos)
+## Política de corte de Gastos (cuidado com a economia burra e investimentos incapazes de ser concluídos)
 
-## Quais são os critérios saudáveis para o corte de gastos
+## Quais são os critérios saudáveis para o corte de gastos?
 
-## Eficiencia de um time referente a investimento de novas tecnologias.
+## Eficiência de um time referente a investimento de novas tecnologias.
 
-Se o seu time precisa de um fornecedor especializado para te dar suporte ao aplicar ou até mesmo esperimentar uma solução Open Source, talves o seu time precisará rever as suas capacidades técnicas. Ou talvez o seu problema é realmente complexo.
+Se o seu time precisa de um fornecedor especializado para te dar suporte ao aplicar ou até mesmo experimentar uma solução Open Source, talvez o seu time precise rever as suas capacidades técnicas. Ou talvez o seu problema seja realmente complexo.
 
 ## Formas de aumentar a produtividade de um time.
 
-    Times com autonomia e livrer para atender a solução de um problema, tendem a ser mais produtivos.
+    Times com autonomia e livres para atender a solução de um problema, tendem a ser mais produtivos.
 
 
 ## Links
