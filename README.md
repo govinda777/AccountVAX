@@ -1,10 +1,14 @@
 # AccountVAX
 
+* Kant (Moval, Valor moral)
+* Markes (as pessoas tem que lutar pela sobrevivencia "trabalho") (Culpa é do captalismo) [Captalismo seuvagem]
+* Russo (o homer nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
+* Texto Justiça (pequeno discionário das grandes virtudes) 
+
 ## Index
 
 - Problema
 - Objetivo
-- O que é um Controler?
 - Fraude
     - O que é?
     - Quais tipos existem?
@@ -19,32 +23,35 @@
 - Por que fraudes e corrupções geram improdutividade em um ecossistema ou empresa?
 - Por que caixa 2 afeta as decisões de uma companhia?
 - Quais são as ferramentas que um Investidor tem a fim de identificar Corrupções e Fraudes em uma empresa?
-- Aspectos sociais, o que leva uma pessoa a decidir ser corrupta?
 - O que é uma empresa e qual correlação ela pode se encaixar? (correlação da empresa como um corpo animal e correlação entre a estrutura corporal com os departamentos dentro de uma empresa)
 - Como funciona o processo de pagamento de uma empresa?
 - Como funciona o processo de aprovação orçamentária de um projeto dentro de uma empresa?
+
 - Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito a fim de minimizar essa possibilidade)
+    - Casos de Fraude
+
 
 - Solução.
 - Boas práticas.
-- História da evolução contábil.
-- Blockchain e a nova forma de construir uma aplicação Descentralizada.
+- O que é um Controler? ()
+- Uma breve História da evolução contábil. (Partidas dobradas / Tempos modernos / Blockchain)
+- Blockchain e a nova forma de construir uma !!aplicação!! Descentralizada. 
 - Vantagens e desvantagens de um sistema Descentralizado.
 - O que é mais rápido, uma decisão Centralizada ou Descentralizada?
     - Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas decisões)
-- Porque não era possível a criação de um Banco de dados descentralizado.
-- O que Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
+- Porque não era possível a criação de um Banco de dados descentralizado.!!
+- O que a Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
 - Canal de Transparência e comunicação com o investidor.
-    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia?
+    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia? (Time de desenvolviemento de Sof , .....)
 - Sistema de voto afim de colher a opinião de um determinado público.
 - Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
     - Auditoria, grande aliado e prevenção de Fraude e Corrupção.
     - Como funciona um processo de auditoria?
-    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção?
+    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção? 
     - Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
-- Porque uma decisão baseada em informação descentralizada, sempre será mais eficiente do que uma decisão Monocratica.
+- Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocratica.
     - Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
-- Por que as metodologias ágeis se destacam das outras?
+- Por que as metodologias ágeis se destacam das outras? !!!
     - Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
     - Cadê o Gerente de Projeto? 
     - Por que um time ágil não precisa de um Gerente de Projeto?
