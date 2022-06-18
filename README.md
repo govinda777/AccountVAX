@@ -7,8 +7,12 @@
 
 ## Index
 
+- Tema
 - Problema
+- Hipótese
 - Objetivo
+- Introdução
+
 - Fraude
     - O que é?
     - Quais tipos existem?
@@ -33,7 +37,7 @@
 
 - Solução.
 - Boas práticas.
-- O que é um Controler? ()
+- O que é um Controller? ()
 - Uma breve História da evolução contábil. (Partidas dobradas / Tempos modernos / Blockchain)
 - Blockchain e a nova forma de construir uma !!aplicação!! Descentralizada. 
 - Vantagens e desvantagens de um sistema Descentralizado.
@@ -56,54 +60,53 @@
     - Cadê o Gerente de Projeto? 
     - Por que um time ágil não precisa de um Gerente de Projeto?
     - Por que as descições descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
-    - Por que o empresário / controler / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
-
-
-## Problema que visa explorar:
-
-Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais segurança no seu investimento utilizando a informação descentralizada e um sistema de coleta de opniões.
-
-## Objetivo
-
-Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (** Foi usado o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demasiadamente complexos e que requerem entendimento e coleta de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, a fim de permitir a Fraude).
-
-Entendemos que um especto da Blockchain quais poderia criar uma ferramenta de prevenções de fraudes.
-
-O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema Básico de fraudes.
-
-Nossa abordagem, de maneira alguma pretende resolver por completo a questão de Fraude em uma empresa. Mas pretendemos trazer um sistema de consenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
-
-Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que sofrerão esse investimento.
-
-Veja que me refiro a investimento no sentido de:
-
-- Comprar ou não um maquinário?
-- Comprar ou não um servidor mais potente?
-- Trocar ou não essa máquina que está causando gargalos na linha de produção.
-- Comprar ou não a Licença desse software.
-
-Como funciona geralmente o Comitê de aprovação de projetos de uma empresa?
-
-##Atenção falar com o Francisco da Cosan.
+    - Por que o empresário / Controller / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
 
 ## Tema
 
 Corrupção / Fraude e Auditoria de processos, relacionado com Blockchain.
 
+## Problema
+
+Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais segurança no seu investimento utilizando a informação descentralizada e um sistema de coleta de opniões.
 
 ## Hipótese
 
-Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
-Essa comunicação poderia ser anônima na parte da responta do Funcionário?
-Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
-Será que essas informações são uteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
-Será que, ferramentas, processos e insentivos corretos melhoram a produtividade de uma comunicade empresarial?
+* Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
+* Essa comunicação poderia ser anônima na parte da responta do Funcionário?
+* Essa comunicação poderia ser limitada afim de impedir vazamento de informação?
+* Essa comunicação poderia funcionar como um canal de votação?
+* Será que um Controller poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
+* Será que essas informações seriam uteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
+* Será que, ferramentas, processos e insentivos corretos melhoram a produtividade de uma comunicade empresarial?
+* Se eu aumentar o nivel de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
+* Uma ferramenta eficiente, capas de colher o consenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+* Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVÍDUOS 
+teria mais probabilidade de ser mais eficiente do que 
+um ecossistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS?
 
-Se eu aumentar o nivel de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
+* Um investidor teria mais segurança e confiança em uma empresa que toma suas descições de investimentos (como compra de tecnologias, licenças, maquinários e treinamentos) caso essas descições fossem levado em conta a opnião de seus funcionários?
 
-Uma ferramenta eficiente, capas de colher o consenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+* A partir desse novo modo de descição o investidor teria mais segurança para investir mais dinheiro na empresa?
 
-Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVÍDUOS teria mais probabilidade de ser mais eficiente do que um ecossistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS???
+Essa ultima Hipótese é que visamos focar nesse projeto.
+
+## Objetivo
+
+Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (Foi usado o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demasiadamente complexos e que requerem entendimento e coleta de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, a fim de permitir a Fraude ou CORRUPÇÃO).
+
+O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema básico de fraudes.
+
+Nossa abordagem, de maneira alguma pretende resolver por completo a questão de CORRUPÇÃO em uma empresa. Mas pretendemos trazer um sistema de consenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
+
+Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que sofrerão esse investimento.
+
+Me refiro a investimento no sentido de:
+
+- Como compra de tecnologias.
+- Compra de licenças.
+- Compra de maquinários.
+- Compra de treinamentos.
 
 ## Introdução
 
@@ -132,22 +135,9 @@ Será que eu como investidor teria a decisão de investir mais dinheiro em uma e
 
 Você empresário, possui o Direito monocrático a tomar a Decisão que achar melhor para a sua empresa. Ferir esses direitos causaria o rompimento de toda a nossa Sociedade, por isso os Empresários sempre têm que ter o poder de tomada dessa Decisão.
 
-## O que esse projeto é para: O INVESTIDOR
+## Como funciona o processo de aprovação de projetos em uma Companhia?
 
-Um canal de comunicação e transparência.
-Um selo de qualidade referente a tomada de decisões de forma não 100% centralizada.
-
-## O que esse projeto é para: DONO DA EMPRESA
-
-Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
-
-## O que esse projeto é para: OS COLABORADORESO
-
-Uma ferramenta motivacional onde o colaborador tem participação ativa nas decisões da empresa.
-
-## O que esse projeto é para: PARA A SOCIEDADE
-
-Uma ferramenta que visa melhorar a questão da corrupção para ecossistemas empresariais
+??????????????????????
 
 ## Artefatos
 
@@ -185,12 +175,12 @@ Aspectos: Tecnologia da informação, Criptografia, Validadores
 2. Projeto de Software - A fim de implementar materialmente os requisitos dessa Solução.
 
 
-## O que é um Controler?
+## O que é um Controller?
 
 
 ## Qual é a relação de uma empresa com a Anatomia de um mamífero?
 
-Controlers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
+Controllers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
 
 Times de produção, pesquisa e desenvolvimento: são os pulmões, coração, ossos e músculos. São os que fazem o corpo (ou empresa) se mover.
 
@@ -219,7 +209,7 @@ Caso você seja um investidor e você tivesse um certificado, onde garantisse qu
 
 Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
 
-Será que um controler poderia tambem utilizar essa opnião para realizar o corte de gastos?
+Será que um Controller poderia tambem utilizar essa opnião para realizar o corte de gastos?
 
 ## O que acontece com uma empresa quando é descoberta uma fraude financeira?
 
@@ -232,6 +222,23 @@ Será que um controler poderia tambem utilizar essa opnião para realizar o cort
 ## O que é blockchain?
 
 ## O que é Sistema de concenço e por que a tecnologia Blockchain é tão segura?
+
+## O que esse projeto é para: O INVESTIDOR
+
+Um canal de comunicação e transparência.
+Um selo de qualidade referente a tomada de decisões de forma não 100% centralizada.
+
+## O que esse projeto é para: DONO DA EMPRESA
+
+Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
+
+## O que esse projeto é para: OS COLABORADORESO
+
+Uma ferramenta motivacional onde o colaborador tem participação ativa nas decisões da empresa.
+
+## O que esse projeto é para: PARA A SOCIEDADE
+
+Uma ferramenta que visa melhorar a questão da corrupção para ecossistemas empresariais
 
 ## Conceito de Anonimato?
 
@@ -362,6 +369,8 @@ Progamação linear : https://www.youtube.com/watch?v=iljf9W2__uo&t=976s
 "A lei frequentemente destrói o que deveria preservar" : https://www.youtube.com/watch?v=6tsNkKXvu84&t=378s
 
 Incentivos errados : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
+
+Moral e Ética : https://www.youtube.com/watch?v=ufTPyv8nTq4&ab_channel=Document%C3%A1rios10
 
 ## FireFly Core code hierarchy
 
