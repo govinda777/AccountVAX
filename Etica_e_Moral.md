@@ -20,11 +20,9 @@ Moral é o que você não faria de forma alguma mesmo que você fosse invisivel.
 
 Moral é o pensamento livre sobre a vida, é o esforço intelectual para escolher o melhor caminho para a sua vida.
 
-Moral, gestão da própria vida.
-
 RUSSO : Revolução Fransesa 
 
-Segundo RUSSO, a diferente dos animais o Homem não tem na sua natureza, toda a tecnologia para a sua sobrevivencia. Por isso resta ao Homem ir alem da sua natureza, ir alem do seu instinto.
+Segundo RUSSO, diferente dos animais, o Homem não tem na sua natureza, toda a tecnologia para a sua sobrevivencia. Por isso resta ao Homem ir alem da sua natureza, ir alem do seu instinto.
 
 Ir alem = Transcender.
 
@@ -34,7 +32,7 @@ A Ética, é a nossa inteligencia para identivicar a melhor forma de resolução
 
 A Ética, é a inteligencia para o aperfeiçoamento progressivo da convivencia. Quem é capas de melhorar a nossa convivencia, é apenas quem convive, nos mesmos. Não há inteligencia absoluta que deva se impor a solução dos nossos problemas de convivencia.
 
-A Ética, é saber prático para resolver problemas concretos do nosso tempo. Por que do nosso tempo? Por que a nossa convivencia muda de acordo com que a Sociedade muda, assim como não é permitido mais fumar em um lugar fechado hoje na década de 90 isso não era um problema.
+A Ética, é saber prático para resolver problemas concretos do nosso tempo. Por que do nosso tempo? Por que a nossa convivencia muda de acordo com que a Sociedade muda, assim como não é permitido mais fumar em um lugar fechado hoje, na década de 90 isso não era um problema.
 
 A Ética, é a discução sobre o nosso tempo, problemas relacionados ao nosso tempo.
 
