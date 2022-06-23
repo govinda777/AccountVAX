@@ -336,12 +336,17 @@ Mas quais são os elementos essenciais de um blockchain que possibilitam a resol
 
 O problema dos generais bizantinos (PGB)
 
-    Vários generais do mesmo lado e seus exércitos estão localizados em diferentes extremos de uma cidade com a intenção de cercá-la.
-    Para ter sucesso, eles precisam atacar a cidade de maneira coordenada para derrotar as defesas ou recuar de forma coordenada. No caso de não sincronizar suas ações, eles cairão diante das fortes forças inimigas.
-    Para conseguir isso, os generais atacantes se comunicam através de mensageiros.
-    Embora a cidade esteja cheia de inimigos, os mensageiros devem atravessar a cidade para ir de um acampamento para outro com ordens de ataque.
-    A suposição indica que um mensageiro do exército informará outro da intenção de atacar ou não, e quando fazê-lo.
-    À medida que recebem propostas, os generais os confirmam ou os rejeitam para estabelecer um acordo de votação sobre qual passo dar.
+    - Vários generais do mesmo lado e seus exércitos estão localizados em diferentes extremos de uma cidade com a intenção de cercá-la.
+    - Para ter sucesso, eles precisam atacar a cidade de maneira coordenada para derrotar as defesas ou recuar de forma coordenada. No caso de não sincronizar suas ações, eles cairão diante das fortes forças inimigas.
+    - Para conseguir isso, os generais atacantes se comunicam através de mensageiros.
+    - Embora a cidade esteja cheia de inimigos, os mensageiros devem atravessar a cidade para ir de um acampamento para outro com ordens de ataque.
+    - A suposição indica que um mensageiro do exército informará outro da intenção de atacar ou não, e quando fazê-lo.
+    - À medida que recebem propostas, os generais os confirmam ou os rejeitam para estabelecer um acordo de votação sobre qual passo dar.
+
+![Screenshot](./diagramas/bizantino.svg)
+
+> Link de referencia: Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
+
 
 Como você pode ver, o problema é que dentro da cidade inimigos poderiam capturar mensageiros. Se eles puderem ser interceptados, a mensagem pode ser modificado e, conseqüentemente, o ataque não seria realizado de maneira coordenada. Se não fossem executados de maneira coordenada, os exércitos atacantes seriam derrotados, fracassando em sua missão.
 
@@ -402,6 +407,8 @@ Nodos completos podem verificar de maneira autônoma e autoritária qualquer tra
 As transações que não forem reconhecidas pelos ledgers dos usuários do bloco não são válidas (MEIKLEJOHN et al., 2016). Uma vez que um nodo recebe dados de outro nodo, ele verifica a autenticação dos dados em seu próprio ledger." (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
 
 ![Screenshot](./imgs/git_branchs_ex.png)
+
+
 
 ## Mapas de uma Blockchain
 
