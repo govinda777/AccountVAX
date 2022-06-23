@@ -343,7 +343,7 @@ O problema dos generais bizantinos (PGB)
     - A suposição indica que um mensageiro do exército informará outro da intenção de atacar ou não, e quando fazê-lo.
     - À medida que recebem propostas, os generais os confirmam ou os rejeitam para estabelecer um acordo de votação sobre qual passo dar.
 
-![Screenshot](./diagramas/bizantino.svg)
+![Screenshot](./diagramas/bizantino.png)
 
 > Link de referencia: Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
 
