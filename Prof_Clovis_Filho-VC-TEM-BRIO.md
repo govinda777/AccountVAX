@@ -1,13 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="Description" CONTENT="Author: A.N. Author, Illustrator: P. Picture, Category: Books, Price:  £9.24, Length: 784 pages">
-    <meta name="google-site-verification" content="+nxGUDJ4QpAZ5l9Bsjdi102tLVC21AIh5d1Nl23908vVuFHs34="/>
-    <title>Example Books - high-quality used books for children</title>
-    <meta name="robots" content="noindex,nofollow">
-  </head>
-</html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="Description" CONTENT="Clóvis de Barros Filho Você sabe o que é brio ??">
+  <meta name="google-site-verification" content="QbkkmhScaz3j3r4-FxcNzBG51P0-K2CS00np-8uamzo" />
+  <title>Clóvis de Barros Filho " Você sabe o que é brio ??"</title>
+  <meta name="robots" content="all">
+</head>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://s.dicio.com.br/brio.png">
