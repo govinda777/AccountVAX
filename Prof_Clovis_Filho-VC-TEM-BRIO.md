@@ -110,7 +110,7 @@ Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, �
 
 # Esse Brio que vai fazer você Progredir intelectualmente.
 
-## Referencias
+## Referências
 
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
