@@ -129,6 +129,26 @@ https://www.youtube.com/watch?v=UVtgFN3K6kE
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
 https://youtu.be/R8_veQiYBjI
 
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-3.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-4.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-5.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-6.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-7.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-8.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-9.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-10.jpeg)
+
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-11.jpeg)
+
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-MK-1.jpeg)
 https://www.youtube.com/channel/UCIvdVpHdlokxz_wArsoLnVA/videos
 
