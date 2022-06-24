@@ -487,6 +487,13 @@ Exemplo de Incentivos errados que possibilitam a corrupção : https://www.youtu
 
 Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
 
+> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+  
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+https://youtu.be/R8_veQiYBjI
+
+
+
 ## Videos
 
 Bitcoin na Lua : https://www.youtube.com/watch?v=JJ2k1XWSfd4

@@ -121,9 +121,13 @@ Como assim, é elementar e eu não entendi ?? (ouvir isso é de moer o figado, �
 
 ## Referências
 
-
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
 https://www.youtube.com/watch?v=UVtgFN3K6kE
+
+> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+  
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+https://youtu.be/R8_veQiYBjI
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-MK-1.jpeg)
 https://www.youtube.com/channel/UCIvdVpHdlokxz_wArsoLnVA/videos
