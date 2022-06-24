@@ -9,7 +9,7 @@ https://youtu.be/R8_veQiYBjI |
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-3.jpeg)
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-3.jpeg)[^1]
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-4.jpeg)
 
@@ -29,3 +29,5 @@ https://www.youtube.com/c/TechWorldwithNana
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-10.jpeg)
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-11.jpeg)
+
+[^1]: Minha referência.
