@@ -2,7 +2,7 @@
 
 * Kant (Moval, Valor moral)
 * Markes (as pessoas tem que lutar pela sobrevivencia "trabalho") (Culpa é do captalismo) [Captalismo seuvagem]
-* Russo (o homer nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
+* Russo (o homem nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
 * Texto Justiça (pequeno discionário das grandes virtudes) 
 
 ## Index
@@ -75,13 +75,13 @@
     - [Como funciona um processo de auditoria?
     - [A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção? 
     - [Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
-- [Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocratica.
+- [Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocrática.
     - [Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
 - [Por que as metodologias ágeis se destacam das outras? !!!
     - [Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
     - [Cadê o Gerente de Projeto? 
     - [Por que um time ágil não precisa de um Gerente de Projeto?
-    - [Por que as descições descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
+    - [Por que as descisões descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
     - [Por que o empresário / Controller / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
 
 
@@ -100,27 +100,27 @@ Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao 
 * Essa comunicação poderia ser limitada afim de impedir vazamento de informação?
 * Essa comunicação poderia funcionar como um canal de votação?
 * Será que um Controller poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
-* Será que essas informações seriam uteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
-* Será que, ferramentas, processos e insentivos corretos melhoram a produtividade de uma comunicade empresarial?
+* Será que essas informações seriam úteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
+* Será que, ferramentas, processos e incentivos corretos melhoram a produtividade de uma comunicade empresarial?
 * Se eu aumentar o nivel de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
-* Uma ferramenta eficiente, capas de colher o consenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
-* Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nivel de confiança entre os INDIVÍDUOS 
+* Uma ferramenta eficiente, capaz de colher o concenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+* Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nível de confiança entre os INDIVÍDUOS 
 teria mais probabilidade de ser mais eficiente do que 
-um ecossistema empresarial CORRUPTO e com um baixo nivel de confiança entre os INDIVIDUOS?
+um ecossistema empresarial CORRUPTO e com um baixo nível de confiança entre os INDIVÍDUOS?
 
-* Um investidor teria mais segurança e confiança em uma empresa que toma suas descições de investimentos (como compra de tecnologias, licenças, maquinários e treinamentos) caso essas descições fossem levado em conta a opnião de seus funcionários?
+* Um investidor teria mais segurança e confiança em uma empresa que toma suas descições de investimentos (como compra de tecnologias, licenças, maquinários e treinamentos) caso essas descisões fossem levado em conta a opinião de seus funcionários?
 
-* A partir desse novo modo de descição o investidor teria mais segurança para investir mais dinheiro na empresa?
+* A partir desse novo modo de descisão o investidor teria mais segurança para investir mais dinheiro na empresa?
 
 Essa ultima Hipótese é que visamos focar nesse projeto.
 
 ## Objetivo
 
-Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (Foi usado o termo pequena apostra pois entendemos que problemas relacionados a fraudes financeiras, são demasiadamente complexos e que requerem entendimento e coleta de diversas variáveis correspondentes ao contexto e falhas no processo Sistemico e Manual, a fim de permitir a Fraude ou CORRUPÇÃO).
+Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Financeiras (Foi usado o termo pequena amostra, pois entendemos que problemas relacionados a fraudes financeiras, são demasiadamente complexos e que requerem entendimento e coleta de diversas variáveis correspondentes ao contexto e falhas no processo Sistêmico e Manual, a fim de permitir a Fraude ou CORRUPÇÃO).
 
 O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema básico de fraudes.
 
-Nossa abordagem, de maneira alguma pretende resolver por completo a questão de CORRUPÇÃO em uma empresa. Mas pretendemos trazer um sistema de consenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
+Nossa abordagem, de maneira alguma pretende resolver por completo a questão de CORRUPÇÃO em uma empresa. Mas pretendemos trazer um sistema de concenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
 
 Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que sofrerão esse investimento.
 
@@ -133,7 +133,7 @@ Me refiro a investimento no sentido de:
 
 ## Introdução
 
-A entrega final desse projeto será a criação de insumos, dados e informações, para a consepção de um canal de imprensa baseado em votações e avaliações objetivas.
+A entrega final desse projeto será a criação de insumos, dados e informações, para a concepção de um canal de imprensa baseado em votações e avaliações objetivas.
 
 Que terá como principal finalidade aumentar o grau de confiabilidade dos investidos referente a empresa.
 
@@ -203,7 +203,7 @@ Aspectos: Tecnologia da informação, Criptografia, Validadores
 
 ## Qual é a relação de uma empresa com a Anatomia de um mamífero?
 
-Controllers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defeza do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
+Controllers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defesa do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
 
 Times de produção, pesquisa e desenvolvimento: são os pulmões, coração, ossos e músculos. São os que fazem o corpo (ou empresa) se mover.
 
@@ -211,7 +211,7 @@ Presidentes / Diretores / Heads / Gestores / Coordenadores: São o cérebro e si
 
 Investidores, Clientes e Ativos: São os agentes que dão vida ao Ecossistema. Na nossa analogia eles seriam o ar, a água e o alimento que mantem o corpo vivo.
 
-Vírus, Parazitas ou Bactérias: São elementos que atuam causando uma desfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infertil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são:
+Vírus, Parazitas ou Bactérias: São elementos que atuam causando uma disfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infértil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são:
 
     * Investimentos feitos de forma mal planejada.
     * Investimentos com baixas chances de serem concluídos.
@@ -228,11 +228,11 @@ Vírus, Parazitas ou Bactérias: São elementos que atuam causando uma desfunç�
         -
         -
 
-Caso você seja um investidor e você tivesse um certificado, onde garantisse que aos mesmos os times de "Produção" foram ouvidos referente a descição sobre algum investimento, você ficaria mais seguro? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opinião de seu "pulmão / coração / ossos / nusculos"?
+Caso você seja um investidor e você tivesse um certificado, onde garantisse que aos mesmos os times de "Produção" foram ouvidos referente a descisão sobre algum investimento, você ficaria mais seguro? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opinião de seu "pulmão / coração / ossos / músculos"?
 
 Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
 
-Será que um Controller poderia tambem utilizar essa opnião para realizar o corte de gastos?
+Será que um Controller poderia também utilizar essa opnião para realizar o corte de gastos?
 
 ## O que acontece com uma empresa quando é descoberta uma fraude financeira?
 
@@ -244,7 +244,7 @@ Será que um Controller poderia tambem utilizar essa opnião para realizar o cor
 
 ## O que é blockchain?
 
-## O que é Sistema de concenço e por que a tecnologia Blockchain é tão segura?
+## O que é Sistema de concenso e por que a tecnologia Blockchain é tão segura?
 
 ## O que esse projeto é para: O INVESTIDOR
 
@@ -255,7 +255,7 @@ Um selo de qualidade referente a tomada de decisões de forma não 100% centrali
 
 Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
 
-## O que esse projeto é para: OS COLABORADORESO
+## O que esse projeto é para: OS COLABORADORES
 
 Uma ferramenta motivacional onde o colaborador tem participação ativa nas decisões da empresa.
 
@@ -279,11 +279,11 @@ Uma ferramenta que visa melhorar a questão da corrupção para ecossistemas emp
 
 ## Decisões Monocráticas, Centralização e necessidade de 
 
-Acho que todo empresário tem que ter a autonimia MONOCRÁTICA de fazer o que deseja com o seu patrimônio e sua empresa.
+Acho que todo empresário tem que ter a autonomia MONOCRÁTICA de fazer o que deseja com o seu patrimônio e sua empresa.
 
 Não acho possível uma sociedade produtiva onde não é respeitada a propriedade privada.
 
-Porém quando falamos de investidor / capital extrangeiro / IPO ou qualquer outra forma de recolhimento de capital externo, pecamos muito em relação a transparência e descição objetiva para o que fazer com o capital extra que entrou na empresa.
+Porém quando falamos de investidor / capital extrangeiro / IPO ou qualquer outra forma de recolhimento de capital externo, pecamos muito em relação a transparência e descisão objetiva para o que fazer com o capital extra que entrou na empresa.
 
 ## Por que consultar os times pode ser uma boa ideia?
 
@@ -297,7 +297,7 @@ Dessa vez acionamos o Desenvolvedor da área. O problema foi esclarecido e soluc
 
 Entenda que o que quero expor não foi nesse caso a ineficiência do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chamar a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nesse caso é o Desenvolvedor.
 
-Em melhores palavras, eu gerente, atuante nesse Corpo como cèrebro e sistema nevorso, nunca serei tão eficiente para bombear sanque, quanto o coração.
+Em melhores palavras, eu gerente, atuante nesse Corpo como cérebro e sistema nevorso, nunca serei tão eficiente para bombear sanque, quanto o coração.
 
 Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como o pulmôes, coração, ossos, e músculos será que não seria interessante saber ao menos a opnião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time?
 
@@ -320,7 +320,7 @@ Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como
     * Hiperinflação
     *
 
-## Por que uma decição baseada em informação descentralizada, sempre será mais eficiente do que uma decição Monocratica?
+## Por que uma decição baseada em informação descentralizada, sempre será mais eficiente do que uma decisão Monocrática?
 
 https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
