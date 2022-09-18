@@ -1,10 +1,5 @@
 # AccountVAX
 
-* Kant (Moval, Valor moral)
-* Markes (as pessoas tem que lutar pela sobrevivencia "trabalho") (Culpa é do captalismo) [Captalismo seuvagem]
-* Russo (o homem nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
-* Texto Justiça (pequeno discionário das grandes virtudes) 
-
 ## Index
 
 - [Tema](#tema)
@@ -520,6 +515,15 @@ Progamação linear : https://www.youtube.com/watch?v=iljf9W2__uo&t=976s
 Incentivos errados : https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
 Moral e Ética : https://www.youtube.com/watch?v=ufTPyv8nTq4&ab_channel=Document%C3%A1rios10
+
+
+
+* Kant (Moval, Valor moral)
+* Markes (as pessoas tem que lutar pela sobrevivencia "trabalho") (Culpa é do captalismo) [Captalismo seuvagem]
+* Russo (o homem nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
+* Texto Justiça (pequeno discionário das grandes virtudes) 
+
+
 
 ## FireFly Core code hierarchy
 
