@@ -8,42 +8,42 @@
 ## Index
 
 - [Tema](#tema)
-- [Problema
-- [Hipótese
-- [Objetivo
-- [Introdução
-- [Fraude
-    - [O que é?
-    - [Quais tipos existem?
-    - [Como geralmente acontece?
-    - [Como evitar?
-- [Corrupção
-    - [O que é?
-    - [O que leva uma pessoa a corrupção?
-    - [Quais incentivos o meio proporciona para a corrupção?
-    - [Quais são os efeitos da corrupção? (ela pode afetar a mesada do seu filho)
-    - [Quais são os efeitos da corrupção em uma empresa?
-- [Por que fraudes e corrupções geram improdutividade em um ecossistema ou empresa?
-- [Por que caixa 2 afeta as decisões de uma companhia?
-- [Quais são as ferramentas que um Investidor tem a fim de identificar Corrupções e Fraudes em uma empresa?
-- [O que é uma empresa e qual correlação ela pode se encaixar? (correlação da empresa como um corpo animal e correlação entre a estrutura corporal com os departamentos dentro de uma empresa)
-- [Como funciona o processo de pagamento de uma empresa?
-- [Como funciona o processo de aprovação orçamentária de um projeto dentro de uma empresa?
+- Problema
+- Hipótese
+- Objetivo
+- Introdução
+- Fraude
+    - O que é?
+    - Quais tipos existem?
+    - Como geralmente acontece?
+    - Como evitar?
+- Corrupção
+    - O que é?
+    - O que leva uma pessoa a corrupção?
+    - Quais incentivos o meio proporciona para a corrupção?
+    - Quais são os efeitos da corrupção? (ela pode afetar a mesada do seu filho)
+    - Quais são os efeitos da corrupção em uma empresa?
+- Por que fraudes e corrupções geram improdutividade em um ecossistema ou empresa?
+- Por que caixa 2 afeta as decisões de uma companhia?
+- Quais são as ferramentas que um Investidor tem a fim de identificar Corrupções e Fraudes em uma empresa?
+- O que é uma empresa e qual correlação ela pode se encaixar? (correlação da empresa como um corpo animal e correlação entre a estrutura corporal com os departamentos dentro de uma empresa)
+- Como funciona o processo de pagamento de uma empresa?
+- Como funciona o processo de aprovação orçamentária de um projeto dentro de uma empresa?
 
-- [Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito a fim de minimizar essa possibilidade)
-    - [Casos de Fraude
+- Revivendo a História? (revendo alguns casos de fraude descobertas em empresas e o que poderia ter sido feito a fim de minimizar essa possibilidade)
+    - Casos de Fraude
 
 
-- [Solução.
-- [Boas práticas.
-- [O que é um Controller?
-- [Uma breve História da evolução contábil. (Partidas dobradas / Tempos modernos / Blockchain)
-- [Blockchain e a nova forma de construir uma !!aplicação!! Descentralizada. 
-- [Vantagens e desvantagens de um sistema Descentralizado.
-- [O que é mais rápido, uma decisão Centralizada ou Descentralizada?
-    - [Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas decisões)
-- [Porque não era possível a criação de um Banco de dados descentralizado.!!
-- [O que a Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
+- Solução.
+- Boas práticas.
+- O que é um Controller?
+- Uma breve História da evolução contábil. (Partidas dobradas / Tempos modernos / Blockchain)
+- Blockchain e a nova forma de construir uma !!aplicação!! Descentralizada. 
+- Vantagens e desvantagens de um sistema Descentralizado.
+- O que é mais rápido, uma decisão Centralizada ou Descentralizada?
+    - Centralizada sempre será mais rápida. (abandono da democracia para a agilidade nas decisões)
+- Porque não era possível a criação de um Banco de dados descentralizado.!!
+- O que a Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
 
 - [Capitulo Entendendo a Blockchain](#capitulo-entendendo-a-blockchain)
 
@@ -67,23 +67,22 @@
     - [Endereço de uma Arvore Binária](#tema)
 
 
-- [Canal de Transparência e comunicação com o investidor.
-    - [Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia? (Time [de desenvolviemento de Sof , .....)
-- [Sistema de voto afim de colher a opinião de um determinado público.
-- [Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
-    - [Auditoria, grande aliado e prevenção de Fraude e Corrupção.
-    - [Como funciona um processo de auditoria?
-    - [A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção? 
-    - [Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
-- [Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocrática.
-    - [Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
-- [Por que as metodologias ágeis se destacam das outras? !!!
-    - [Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
-    - [Cadê o Gerente de Projeto? 
-    - [Por que um time ágil não precisa de um Gerente de Projeto?
-    - [Por que as descisões descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
-    - [Por que o empresário / Controller / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
-
+- Canal de Transparência e comunicação com o investidor.
+    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia? (Time [de desenvolviemento de Sof , .....)
+- Sistema de voto afim de colher a opinião de um determinado público.
+- Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
+    - Auditoria, grande aliado e prevenção de Fraude e Corrupção.
+    - Como funciona um processo de auditoria?
+    - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção? 
+    - Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
+- Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocrática.
+    - Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
+- Por que as metodologias ágeis se destacam das outras? !!!
+    - Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
+    - Cadê o Gerente de Projeto? 
+    - Por que um time ágil não precisa de um Gerente de Projeto?
+    - Por que as descisões descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
+    - Por que o empresário / Controller / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
 
 ## Tema
 
