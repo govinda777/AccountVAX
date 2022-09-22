@@ -490,6 +490,8 @@ https://youtu.be/R8_veQiYBjI
 
 ## Videos
 
+Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
+
 Bitcoin na Lua : https://www.youtube.com/watch?v=JJ2k1XWSfd4
 
 Real Digital : https://www.youtube.com/watch?v=bPwH2sJFGfs
