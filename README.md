@@ -328,7 +328,7 @@ https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
 Quais são os elementos essenciais de um blockchain que possibilitam a resolução do Dilema dos Generais Bizantinos e viabilizam essa inovação? Elementos básicos dos blockchains" (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
 
-## Por que antigamente não era possível revolver o : O problema dos generais bizantinos (PGB)
+## Por que antigamente não era "possível" revolver o : O problema dos generais bizantinos (PGB)
 
 O problema dos generais bizantinos (PGB)
 
