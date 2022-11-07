@@ -40,10 +40,10 @@
 - Porque não era possível a criação de um Banco de dados descentralizado.!!
 - O que a Blockchain poderá ajudar na questão de Fraudes / Corrupções e Consenso.
 
-- [Capitulo Entendendo a Blockchain](#capitulo-entendendo-a-blockchain)
+- [Capítulo Entendendo a Blockchain](#capitulo-entendendo-a-blockchain)
 
     - [O que é](#o-que-é)
-    - [Por que antigamente não era possivel revolver o : O problema dos generais bizantinos (PGB)](#tema)
+    - [Por que antigamente não era possível revolver o : O problema dos generais bizantinos (PGB)](#tema)
     - [Elementos essenciais de um blockchain](#tema)
     - [Operadores do Banco de dados que o blockchain possui.](#tema)
     - [Nodos (integrantes da rede, micro servidor com todos os dados do banco)](#tema)
@@ -63,20 +63,20 @@
 
 
 - Canal de Transparência e comunicação com o investidor.
-    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia? (Time [de desenvolviemento de Sof , .....)
+    - Se o investidor da sua empresa te perguntasse se o patrimônio dele está sendo bem aplicado, o que você responderia? (Time [de desenvolvimento de Sof , .....)
 - Sistema de voto afim de colher a opinião de um determinado público.
 - Impossibilidade de se resolver um problema complexo como Corrupção, apenas tomando soluções de software.
     - Auditoria, grande aliado e prevenção de Fraude e Corrupção.
     - Como funciona um processo de auditoria?
     - A melhor solução é não ter um ambiente propício a Fraude e Corrupção, será que você está em um Sistema que incentiva a corrupção? 
-    - Como identificar um Sistema onde os integrantes são incentivados a corrupçao?
+    - Como identificar um Sistema onde os integrantes são incentivados a corrupção?
 - Porque uma decisão baseada em informação descentralizada, tende a ser mais eficiente do que uma decisão Monocrática.
     - Ex: quantas bolas tem dentro de um frasco (normalmente a média dos chutes é o chute que mais se aproxima da realidade)
 - Por que as metodologias ágeis se destacam das outras? !!!
-    - Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nivel de autonomia?
+    - Um ambiente livre e com alta taxa de autonomia, é mais fértil que um sistema fechado e com baixo nível de autonomia?
     - Cadê o Gerente de Projeto? 
     - Por que um time ágil não precisa de um Gerente de Projeto?
-    - Por que as descisões descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
+    - Por que as decisões descentralizadas, tomadas pelo time como um todo, tende a ser melhores que uma decisão Top Down?
     - Por que o empresário / Controller / investidor deveriam ouvir mais seus times a fim de tomarem melhores decisões?
 
 ## Tema
@@ -85,28 +85,28 @@ Corrupção / Fraude e Auditoria de processos, relacionado com Blockchain.
 
 ## Problema
 
-Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais segurança no seu investimento utilizando a informação descentralizada e um sistema de coleta de opniões.
+Fraude e Corrupção nas empresas, como uma solução em Blockchain ajudaria ao investidor ter mais segurança no seu investimento utilizando a informação descentralizada e um sistema de coleta de opiniões.
 
 ## Hipótese
 
 * Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
-* Essa comunicação poderia ser anônima na parte da responta do Funcionário?
-* Essa comunicação poderia ser limitada afim de impedir vazamento de informação?
+* Essa comunicação poderia ser anônima na parte da resposta do Funcionário?
+* Essa comunicação poderia ser limitada a fim de impedir vazamento de informação?
 * Essa comunicação poderia funcionar como um canal de votação?
-* Será que um Controller poderia tambem utilizar essa opnião para realizar o corte de gastos de forma mais eficiente?
+* Será que um Controller poderia também utilizar essa opinião para realizar o corte de gastos de forma mais eficiente?
 * Será que essas informações seriam úteis para mais algum agente relacionado aos interesses da empresa, como Presidentes e CEOs?
-* Será que, ferramentas, processos e incentivos corretos melhoram a produtividade de uma comunicade empresarial?
-* Se eu aumentar o nivel de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
-* Uma ferramenta eficiente, capaz de colher o concenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
+* Será que, ferramentas, processos e incentivos corretos melhoram a produtividade de uma comunidade empresarial?
+* Se eu aumentar o nível de confiança entre elementos de um ecossistema empresarial isso aumentará a produtividade?
+* Uma ferramenta eficiente, capaz de colher o consenso de um grupo, poderia ser usada de forma que aumentasse a produtividade da empresa?
 * Um ecossistema empresarial livre de CORRUPÇÕES ou FRAUDES e com um Alto nível de confiança entre os INDIVÍDUOS 
 teria mais probabilidade de ser mais eficiente do que 
 um ecossistema empresarial CORRUPTO e com um baixo nível de confiança entre os INDIVÍDUOS?
 
-* Um investidor teria mais segurança e confiança em uma empresa que toma suas descições de investimentos (como compra de tecnologias, licenças, maquinários e treinamentos) caso essas descisões fossem levado em conta a opinião de seus funcionários?
+* Um investidor teria mais segurança e confiança em uma empresa que toma suas decisões de investimentos (como compra de tecnologias, licenças, maquinários e treinamentos) caso essas decisões fossem levado em conta a opinião de seus funcionários?
 
-* A partir desse novo modo de descisão o investidor teria mais segurança para investir mais dinheiro na empresa?
+* A partir desse novo modo de decisão o investidor teria mais segurança para investir mais dinheiro na empresa?
 
-Essa ultima Hipótese é que visamos focar nesse projeto.
+Essa última Hipótese é que visamos focar nesse projeto.
 
 ## Objetivo
 
@@ -114,9 +114,9 @@ Entender a partir de uma pequena amostra de problemas relacionados a Fraudes Fin
 
 O objetivo desse Projeto será mostrar como a tecnologia Blockchain poderia resolver um problema básico de fraudes.
 
-Nossa abordagem, de maneira alguma pretende resolver por completo a questão de CORRUPÇÃO em uma empresa. Mas pretendemos trazer um sistema de concenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
+Nossa abordagem, de maneira alguma pretende resolver por completo a questão de CORRUPÇÃO em uma empresa. Mas pretendemos trazer um sistema de consenso e um canal de comunicação do Investidor com os Times que atuam na empresa.
 
-Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em considereção a opinião dos times que sofrerão esse investimento.
+Entendemos que quando uma Empresa está usufruindo do dinheiro dos investidores, pouco se leva em consideração a opinião dos times que sofrerão esse investimento.
 
 Me refiro a investimento no sentido de:
 
@@ -197,48 +197,48 @@ Aspectos: Tecnologia da informação, Criptografia, Validadores
 
 ## Qual é a relação de uma empresa com a Anatomia de um mamífero?
 
-Controllers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defesa do corpo, contra Virus, Parazitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
+Controllers: São os anticorpos, São os elementos que mantem a saúde do corpo. Uma das linhas de defesa do corpo, contra Virus, Parasitas ou Bactérias. Agente que impede a morte Financeira do corpo (no nosso caso Empresa).
 
 Times de produção, pesquisa e desenvolvimento: são os pulmões, coração, ossos e músculos. São os que fazem o corpo (ou empresa) se mover.
 
-Presidentes / Diretores / Heads / Gestores / Coordenadores: São o cérebro e sistema nevorso do corpo. São os agentes que estimulam a motivação intrínseca.
+Presidentes / Diretores / Heads / Gestores / Coordenadores: São o cérebro e sistema nervoso do corpo. São os agentes que estimulam a motivação intrínseca.
 
 Investidores, Clientes e Ativos: São os agentes que dão vida ao Ecossistema. Na nossa analogia eles seriam o ar, a água e o alimento que mantem o corpo vivo.
 
-Vírus, Parazitas ou Bactérias: São elementos que atuam causando uma disfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infértil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os orgãos) são:
+Vírus, Parasitas ou Bactérias: São elementos que atuam causando uma disfunção no bom funcionamento do corpo. São os elementos que tornam esse corpo improdutivo e infértil para a Vida (me refiro vida como se fosse a capacidade produtiva do corpo, bom funcionamento de todos os órgãos) são:
 
     * Investimentos feitos de forma mal planejada.
     * Investimentos com baixas chances de serem concluídos.
     * Investimentos que são maiores que as necessidades da empresa.
     * Grupo de pessoas que formam um cartel na empresa.
-    * Grupo de pessoas e individuos que atrapalham a produtividade da empresa.
-    * Adquirir uma tecnologia, onde o time não tem capacidade de sustentá-la. (provavelemente você terá mais gastos)
+    * Grupo de pessoas e indivíduos que atrapalham a produtividade da empresa.
+    * Adquirir uma tecnologia, onde o time não tem capacidade de sustentá-la. (provavelmente você terá mais gastos)
     * Caixa 2
         - Contratação de empresas para caixa 2.
         - Contratação de produtos para caixa 2.
-        - Contratos desvantajoços e improdutivos, visando caixa 2
+        - Contratos desvantajosos e improdutivos, visando caixa 2
     * Estímulos que proporcionam corrupção.
         - 
         -
         -
 
-Caso você seja um investidor e você tivesse um certificado, onde garantisse que aos mesmos os times de "Produção" foram ouvidos referente a descisão sobre algum investimento, você ficaria mais seguro? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opinião de seu "pulmão / coração / ossos / músculos"?
+Caso você seja um investidor e você tivesse um certificado, onde garantisse que aos mesmos os times de "Produção" foram ouvidos referente a decisão sobre algum investimento, você ficaria mais seguro? Você seria capaz de investir mais dinheiro em uma empresa ao saber que ela leva em consideração a opinião de seu "pulmão / coração / ossos / músculos"?
 
 Será que o investidor gostaria de ter um canal de comunicação direto com o time Operacional da empresa?
 
-Será que um Controller poderia também utilizar essa opnião para realizar o corte de gastos?
+Será que um Controller poderia também utilizar essa opinião para realizar o corte de gastos?
 
 ## O que acontece com uma empresa quando é descoberta uma fraude financeira?
 
 ## Por que uma fraude é ruim para uma empresa?
 
-## Somos corruptos pois somos estimulados à corrupção? Estamos em um ambiente onde recebemos estimulos à corrupção?
+## Somos corruptos pois somos estimulados à corrupção? Estamos em um ambiente onde recebemos estímulos à corrupção?
 
 ## O que são Bancos de Dados descentralizados?
 
 ## O que é blockchain?
 
-## O que é Sistema de concenso e por que a tecnologia Blockchain é tão segura?
+## O que é Sistema de consenso e por que a tecnologia Blockchain é tão segura?
 
 ## O que esse projeto é para: O INVESTIDOR
 
@@ -247,7 +247,7 @@ Um selo de qualidade referente a tomada de decisões de forma não 100% centrali
 
 ## O que esse projeto é para: DONO DA EMPRESA
 
-Uma ferramenta que poderá mostrar de forma clara a opnião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
+Uma ferramenta que poderá mostrar de forma clara a opinião objetiva dos seus colaboradores. Porém não irá interferir nas decisões monocráticas do Dono da Empresa.
 
 ## O que esse projeto é para: OS COLABORADORES
 
@@ -277,7 +277,7 @@ Acho que todo empresário tem que ter a autonomia MONOCRÁTICA de fazer o que de
 
 Não acho possível uma sociedade produtiva onde não é respeitada a propriedade privada.
 
-Porém quando falamos de investidor / capital extrangeiro / IPO ou qualquer outra forma de recolhimento de capital externo, pecamos muito em relação a transparência e descisão objetiva para o que fazer com o capital extra que entrou na empresa.
+Porém quando falamos de investidor / capital estrangeiro / IPO ou qualquer outra forma de recolhimento de capital externo, pecamos muito em relação a transparência e decisão objetiva para o que fazer com o capital extra que entrou na empresa.
 
 ## Por que consultar os times pode ser uma boa ideia?
 
@@ -291,9 +291,9 @@ Dessa vez acionamos o Desenvolvedor da área. O problema foi esclarecido e soluc
 
 Entenda que o que quero expor não foi nesse caso a ineficiência do Gerente e nem mesmo a promoção do Desenvolvedor. O que quero chamar a atenção, é que o propulsor produtivo e agente eficiente e adaptado para a solução do problema nesse caso é o Desenvolvedor.
 
-Em melhores palavras, eu gerente, atuante nesse Corpo como cérebro e sistema nevorso, nunca serei tão eficiente para bombear sanque, quanto o coração.
+Em melhores palavras, eu gerente, atuante nesse Corpo como cérebro e sistema nervoso, nunca serei tão eficiente para bombear sangue, quanto o coração.
 
-Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como o pulmôes, coração, ossos, e músculos será que não seria interessante saber ao menos a opnião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time?
+Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como o pulmão, coração, ossos, e músculos será que não seria interessante saber ao menos a opinião dos integrantes desse time, qual tipo de investimento seria interessante fazer visando o aumento da performance no time?
 
 ## Por que consultar os times pode não ser uma boa ideia?
 
@@ -308,13 +308,13 @@ Se realmente encaramos os "Times de produção, pesquisa e desenvolvimento" como
 
     Citar exemplos históricos
 
-    * Casos de congelamento de preços (problema na India: Garantir o preço independente da produtividade)
+    * Casos de congelamento de preços (problema na Índia: Garantir o preço independente da produtividade)
     * Congelamento de patrimônio
     * Limite de saques diários
     * Hiperinflação
     *
 
-## Por que uma decição baseada em informação descentralizada, sempre será mais eficiente do que uma decisão Monocrática?
+## Por que uma decisão baseada em informação descentralizada, sempre será mais eficiente do que uma decisão Monocrática?
 
 https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
@@ -328,7 +328,7 @@ https://www.youtube.com/watch?v=Vq1MjgGoVpQ&t=197s
 
 Quais são os elementos essenciais de um blockchain que possibilitam a resolução do Dilema dos Generais Bizantinos e viabilizam essa inovação? Elementos básicos dos blockchains" (from "Blockchain e Organizações Descentralizadas" by João Guilherme Lyra)
 
-## Por que antigamente não era possivel revolver o : O problema dos generais bizantinos (PGB)
+## Por que antigamente não era "possível" revolver o : O problema dos generais bizantinos (PGB)
 
 O problema dos generais bizantinos (PGB)
 
@@ -344,7 +344,7 @@ O problema dos generais bizantinos (PGB)
 > Link de referencia: Falha Bizantina : https://academy.bit2me.com/pt/que-es-falla-bizantina/
 
 
-Como você pode ver, o problema é que dentro da cidade inimigos poderiam capturar mensageiros. Se eles puderem ser interceptados, a mensagem pode ser modificado e, conseqüentemente, o ataque não seria realizado de maneira coordenada. Se não fossem executados de maneira coordenada, os exércitos atacantes seriam derrotados, fracassando em sua missão.
+Como você pode ver, o problema é que dentro da cidade inimigos poderiam capturar mensageiros. Se eles puderem ser interceptados, a mensagem pode ser modificado e, consequentemente, o ataque não seria realizado de maneira coordenada. Se não fossem executados de maneira coordenada, os exércitos atacantes seriam derrotados, fracassando em sua missão.
 
 Por exemplo, se uma mensagem dos generais fosse "Ataque amanhã", O texto pode ser alterado adicionando" somente se chover "atrás. Desta forma, o outro exército pode pensar que está concordando em atacar apenas em caso de chuva, e confirmar a mensagem. Assim, o primeiro exército atacaria e o segundo não poderia e se retiraria se não chovesse.
 
@@ -459,7 +459,7 @@ P2Ps Escrow Service Work : https://www.binance.com/en/blog/all/how-does-binance-
 
 Link plataforma: https://www.kaleido.io/
 
-Link de video mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&ab_channel=Kaleido
+Link de vídeo mostrando como utilizar: https://www.youtube.com/watch?v=2XzxdlqN0ks&ab_channel=Kaleido
 
 Documentação firefly: https://github.com/hyperledger/firefly
  
@@ -488,7 +488,7 @@ https://youtu.be/R8_veQiYBjI
 
 
 
-## Videos
+## Vídeos
 
 Pedras Rai e o Bitcoin : https://www.youtube.com/watch?v=Hil_N6YDG6Y
 
@@ -502,7 +502,7 @@ Nova ordem mundial : https://www.youtube.com/watch?v=6cn3jKySrFU&t=68s
 
 Pais ANCAP : https://www.youtube.com/watch?v=iF9jaN3LHMo
 
-Insentivos errados : https://www.youtube.com/watch?v=Jv1kjhZSXsE
+Incentivos errados : https://www.youtube.com/watch?v=Jv1kjhZSXsE
 
 Economia Argentina : https://www.youtube.com/watch?v=L_TZJfCn7_I
 
@@ -510,7 +510,7 @@ Metrô do Rio: Um exemplo clássico de ineficiência estatal : https://www.youtu
 
 O que é Economia : https://www.youtube.com/watch?v=5vCOhPrlRUs
 
-Progamação linear : https://www.youtube.com/watch?v=iljf9W2__uo&t=976s
+Programação linear : https://www.youtube.com/watch?v=iljf9W2__uo&t=976s
 
 "A lei frequentemente destrói o que deveria preservar" : https://www.youtube.com/watch?v=6tsNkKXvu84&t=378s
 
@@ -521,9 +521,9 @@ Moral e Ética : https://www.youtube.com/watch?v=ufTPyv8nTq4&ab_channel=Document
 
 
 * Kant (Moval, Valor moral)
-* Markes (as pessoas tem que lutar pela sobrevivencia "trabalho") (Culpa é do captalismo) [Captalismo seuvagem]
+* Markes (as pessoas tem que lutar pela sobrevivência "trabalho") (Culpa é do capitalismo) [Capitalismo selvagem]
 * Russo (o homem nasce bom, a sociedade faz com que ele se transforme) [O meio pode transformar uma pessoa corrupto] [o Homem que nasce fera sente a necessidade de ser fera]
-* Texto Justiça (pequeno discionário das grandes virtudes) 
+* Texto Justiça (pequeno dicionário das grandes virtudes) 
 
 
 
